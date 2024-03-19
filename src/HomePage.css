@@ -1,0 +1,47 @@
+
+.blue {
+    width: 30%;
+    height: 30%;
+}
+.horror-mystique-container {
+    position: relative;
+    height: 100vh;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .horror-mystique-content {
+    z-index: 1;
+    text-align: center;
+    color: #7512ff;
+    opacity: 50%; 
+  }
+  
+  .start-button {
+    background-color: rgb(115, 28, 127);
+    color: #855cdc;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 35px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .start-button:hover {
+    background-color: rgb(71, 15, 83);
+  }
+  
+  .horror-mystique-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('images/horor..webp');
+    background-repeat: repeat; /* Répéter l'image horizontalement et verticalement */
+    background-size: cover; /* Couvrir toute la zone de manière responsive */
+  }
+  
