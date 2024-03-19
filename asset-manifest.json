@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.753b41dd.css",
+    "main.js": "/static/js/main.e19e260c.js",
+    "static/media/horor..webp": "/static/media/horor..158caec165444be2ded0.webp",
+    "index.html": "/index.html",
+    "main.753b41dd.css.map": "/static/css/main.753b41dd.css.map",
+    "main.e19e260c.js.map": "/static/js/main.e19e260c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753b41dd.css",
+    "static/js/main.e19e260c.js"
+  ]
+}
