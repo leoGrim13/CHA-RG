@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.753b41dd.css",
-    "main.js": "/static/js/main.e19e260c.js",
-    "static/media/horor..webp": "/static/media/horor..158caec165444be2ded0.webp",
-    "index.html": "/index.html",
-    "main.753b41dd.css.map": "/static/css/main.753b41dd.css.map",
-    "main.e19e260c.js.map": "/static/js/main.e19e260c.js.map"
+    "main.css": "/CHA-RG/static/css/main.9d9bbc77.css",
+    "main.js": "/CHA-RG/static/js/main.f6607ed5.js",
+    "static/media/horor..webp": "/CHA-RG/static/media/horor..158caec165444be2ded0.webp",
+    "index.html": "/CHA-RG/index.html",
+    "main.9d9bbc77.css.map": "/CHA-RG/static/css/main.9d9bbc77.css.map",
+    "main.f6607ed5.js.map": "/CHA-RG/static/js/main.f6607ed5.js.map"
   },
   "entrypoints": [
-    "static/css/main.753b41dd.css",
-    "static/js/main.e19e260c.js"
+    "static/css/main.9d9bbc77.css",
+    "static/js/main.f6607ed5.js"
   ]
 }
